@@ -1,0 +1,17 @@
+firefox:
+  class_name: Navigator.firefox
+  launch_cmd: firefox
+
+firefox_calendar:
+  class_name: Navigator.firefox
+  launch_cmd: firefox
+
+obsidian_perso:
+  class_name: obsidian.obsidian
+  launch_cmd: obsidian
+  title_matching: Obsidian_perso
+
+obsidian_work:
+  class_name: obsidian.obsidian
+  launch_cmd: obsidian
+  title_matching: test
